@@ -1,0 +1,26 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: lightblue;
+}
+
+#content
+{
+	border: 4px solid black;
+	width: 1225px;
+	height: 500px;
+	margin-left: 27px;
+	margin-top: 28px;
+	background-color: white;
+}
+
+.particle
+{
+	width: 10px;
+	height: 10px;
+	border-radius: 50%;
+	background-color: black;
+	position: absolute;
+}
